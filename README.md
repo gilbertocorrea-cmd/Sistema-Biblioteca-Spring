@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./docs/banner.png" width="100%" alt="Banner do projeto Sistema Biblioteca Spring">
+</div>
+
+<div align="center">
 
 # S I S T E M A　B I B L I O T E C A　//　S P R I N G
 
